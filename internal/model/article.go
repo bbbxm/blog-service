@@ -1,5 +1,7 @@
 package model
 
+import "github.com/bianxm/blog-service/pkg/app"
+
 type Article struct {
 	*Model
 	Title         string `json:"title"`
@@ -11,4 +13,10 @@ type Article struct {
 
 func (a Article) TableName() string {
 	return "blog_article"
+}
+
+// article.go
+type ArticleSwagger struct {
+	List  []*Article
+	Pager *app.Pager
 }

@@ -1,1 +1,11 @@
 2021/03/28 09:59:06 {"callers":["/Users/bianxingming/workspace/go/blog-service/main.go 27 main.init.0"],"level":"info","message":"bianxm: go-programming-tour-book/bolg-service","time":1616896746358140000}
+2021/04/19 23:23:45 {"callers":["/Users/bianxingming/workspace/go/blog-service/main.go 27 main.init.0"],"level":"info","message":"bianxm: go-programming-tour-book/bolg-service","time":1618845825186814000}
+2021/04/19 23:49:36 {"callers":["/Users/bianxingming/workspace/go/blog-service/main.go 27 main.init.0"],"level":"info","message":"bianxm: go-programming-tour-book/bolg-service","time":1618847376985485000}
+2021/04/19 23:58:52 {"callers":["/Users/bianxingming/workspace/go/blog-service/main.go 27 main.init.0"],"level":"info","message":"bianxm: go-programming-tour-book/bolg-service","time":1618847932684902000}
+2021/04/19 23:59:31 {"callers":["/Users/bianxingming/workspace/go/blog-service/main.go 27 main.init.0"],"level":"info","message":"bianxm: go-programming-tour-book/bolg-service","time":1618847971269566000}
+2021/04/20 00:00:54 {"callers":["/Users/bianxingming/workspace/go/blog-service/main.go 27 main.init.0"],"level":"info","message":"bianxm: go-programming-tour-book/bolg-service","time":1618848054249481000}
+2021/04/21 00:00:00 {"callers":["/Users/bianxingming/workspace/go/blog-service/main.go 27 main.init.0"],"level":"info","message":"bianxm: go-programming-tour-book/bolg-service","time":1618934400547687000}
+2021/04/21 00:06:54 {"callers":["/Users/bianxingming/workspace/go/blog-service/main.go 27 main.init.0"],"level":"info","message":"bianxm: go-programming-tour-book/bolg-service","time":1618934814941989000}
+2021/04/21 00:07:44 {"callers":["/Users/bianxingming/workspace/go/blog-service/main.go 27 main.init.0"],"level":"info","message":"bianxm: go-programming-tour-book/bolg-service","time":1618934864689668000}
+2021/04/21 00:09:33 {"callers":["/Users/bianxingming/workspace/go/blog-service/main.go 27 main.init.0"],"level":"info","message":"bianxm: go-programming-tour-book/bolg-service","time":1618934973805977000}
+2021/04/21 00:09:37 {"callers":["/Users/bianxingming/workspace/go/blog-service/main.go 27 main.init.0"],"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1618934977279162000}

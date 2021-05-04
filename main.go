@@ -34,6 +34,9 @@ func init() {
 	}
 }
 
+// @title 博客系统
+// @version 1.0
+// @description Go 语言编程之旅：一起用 Go 做项目
 func main() {
 	global.Logger.Infof("%s: go-programming-tour-book/%s", "bianxm", "bolg-service")
 	gin.SetMode(global.ServerSetting.RunMode)
